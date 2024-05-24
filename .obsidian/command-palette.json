@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "obsidian-git:pull",
+    "obsidian-git:push2",
+    "obsidian-git:commit-staged",
+    "obsidian-git:commit",
+    "obsidian-git:stage-current-file"
+  ]
+}
